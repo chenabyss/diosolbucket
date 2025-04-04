@@ -3,20 +3,11 @@
     "version": "1.2.7",
     "description": "一款简洁好用，免费纯净的B站视频下载软件",
     "homepage": "https://github.com/chenabyss/tools/",
-    "license": "",
-    "notes": "",
+    "license": "ShareWare",
     "architecture": {
         "64bit": {
             "url": "https://github.com/chenabyss/tools/blob/main/BilidownSetup.zip#/dl.7z",
             "hash": "29c50ef9ab30ea8ce0a00efed28ff343d91eb4827f8d72d1b1fb62618631ad11"
-        },
-        "32bit": {
-            "url": "",
-            "hash": ""
-        },
-        "arm64": {
-            "url": "",
-            "hash": ""
         }
     },
     "pre_install": "",
@@ -38,26 +29,6 @@
     "persist": [
         "",
         ""
-    ],
-    "checkver": {
-        "url": "",
-        "regex": ""
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": ""
-            },
-            "32bit": {
-                "url": ""
-            },
-            "arm64": {
-                "url": ""
-            }
-        },
-        "hash": {
-            "url": "",
-            "regex": ""
-        }
+    ]
     }
 }
