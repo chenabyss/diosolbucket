@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/chenabyss/tools/blob/main/BilidownSetup.zip",
-            "hash": "29c50ef9ab30ea8ce0a00efed28ff343d91eb4827f8d72d1b1fb62618631ad11"
+            "hash": "1649e842a67ea55adc93fe040bfd8eb8bf6c00f8"
         }
     },
     "pre_install": "",
