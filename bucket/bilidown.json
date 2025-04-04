@@ -6,7 +6,7 @@
     "license": "ShareWare",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chenabyss/tools/blob/main/BilidownSetup.zip#/dl.7z",
+            "url": "https://github.com/chenabyss/tools/blob/main/BilidownSetup.zip",
             "hash": "29c50ef9ab30ea8ce0a00efed28ff343d91eb4827f8d72d1b1fb62618631ad11"
         }
     },
