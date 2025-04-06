@@ -6,28 +6,7 @@
     "license": "ShareWare",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chenabyss/tools/blob/main/BilidownSetup.zip",
-            "hash": "1649e842a67ea55adc93fe040bfd8eb8bf6c00f8"
+            "url": "https://github.com/chenabyss/tools/blob/main/BilidownSetup.zip"
         }
-    },
-    "pre_install": "",
-    "installer": {
-        "script": ""
-    },
-    "post_install": [
-        "",
-        ""
-    ],
-    "uninstaller": {
-        "script": ""
-    },
-    "bin": "",
-    "env_add_path": [
-        "",
-        ""
-    ],
-    "persist": [
-        "",
-        ""
-    ]
+    }
 }
